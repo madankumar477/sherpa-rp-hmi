@@ -2,6 +2,8 @@
 
 A browser-based Human–Machine Interface (HMI) for operating and monitoring the Sherpa RP autonomous mobile robot (AMR). This repository presents the **real system architecture, frontend capabilities, backend responsibilities, ROS 2 integration model, deployment topology and selected UI captures** for technical reviewers and hiring teams.
 
+Developed by E MADAN KUMAR during the Robotics & AI internship at ATI Motors (New Product Initiative). Published with permission from ATI Motors.
+
 > **Source-code availability**  
 > This is an architecture and portfolio showcase. The proprietary frontend implementation, backend source, ROS 2 workspace, deployment scripts, private configuration and credentials are intentionally not included. **For the complete source code, contact E MADAN KUMAR.**
 
@@ -37,7 +39,7 @@ The HMI groups operator tasks into focused screens for **Home, Mapping, Navigati
 
 *Navigation screen capture supplied with the project archive. It illustrates saved-map selection, goal and initial-pose controls, route/workflow information, Nav2 readiness and the local stop control.*
 
-These are UI captures from the supplied project archive, not a claim of a currently connected live robot session. Refresh the captures from an approved demonstration environment before a public release if the displayed status indicators are not representative of the intended demo state.
+These are UI captures from the supplied project archive, not a claim of a currently connected live robot session.
 
 ## Architecture overview
 
@@ -124,4 +126,4 @@ This public repository intentionally contains architecture documentation and sel
 
 ---
 
-*Publication note: Before making this showcase public, confirm that the organization responsible for the Sherpa RP HMI permits public display of the robot name, branding, screenshots and architecture information.*
+*Sherpa RP name, screenshots and architecture information are shown with permission from ATI Motors.*
